@@ -7,7 +7,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://dixfenix.github.io/grill/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,18 +30,18 @@ To run **Grilli** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://dixfenix.github.io/grill/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://dixfenix.github.io/grill/
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Telegram](https://t.me/ahrorjon911).
 
 ### License
 
